@@ -18,8 +18,12 @@ One of the main objectives of this analysis is to determine the average duration
 #### Usage Patterns by Time of Day
 This analysis also aims to investigate if there is a difference between member and casual users in terms of the time they use the Citi Bike service. By examining usage patterns throughout the day, we can identify any variations in behavior between the two user types.
 
+![users](Output/Citibike_users.png)
+
 #### Top Locations Traveled To/ Started From
 Understanding the most frequently traveled locations is crucial for identifying popular destinations and potential areas for infrastructure improvements. By analyzing the data, we can identify the top locations traveled to by Citi Bike users and gain insights into popular destinations within the service area.
+
+![location](Output/Citibike_locations.png)
 
 #### Getting Started
 To access the Tableau story and explore the findings, please click on the link provided above. The Tableau story page will open, allowing you to interact with the visualizations and explore the data-driven insights.
