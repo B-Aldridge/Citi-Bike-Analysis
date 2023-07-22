@@ -1,5 +1,7 @@
 # Citi Bike Data Analysis
 
+![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 This project aims to analyze Citi Bike data to gain insights into user behavior and travel patterns. The information used in this analysis was gathered from the Citi Bikes website. The primary objectives of this analysis are:
 
 Determine the average duration of travel by user type.
